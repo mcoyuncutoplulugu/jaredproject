@@ -1,0 +1,184 @@
+Uri: https://jaredproject.com/assets/colors/color1.css
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\colors\color1.css
+Content Type: text/css
+
+Uri: https://jaredproject.com/assets/css/dark-style.css
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\css\dark-style.css
+Content Type: text/css
+
+Uri: https://jaredproject.com/assets/css/icons.css
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\css\icons.css
+Content Type: text/css
+
+Uri: https://jaredproject.com/assets/css/skin-modes.css
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\css\skin-modes.css
+Content Type: text/css
+
+Uri: https://jaredproject.com/assets/css/style.css
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\css\style.css
+Content Type: text/css
+
+Uri: https://jaredproject.com/assets/css/transparent-style.css
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\css\transparent-style.css
+Content Type: text/css
+
+Uri: https://jaredproject.com/assets/images/brand/icon.png
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\images\brand\icon.png
+Content Type: image/png
+
+Uri: https://jaredproject.com/assets/images/brand/logo.png
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\images\brand\logo.png
+Content Type: image/png
+
+Uri: https://jaredproject.com/assets/images/loader.svg
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\images\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://jaredproject.com/assets/images/media/Sponsor.png
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\images\media\Sponsor.png
+Content Type: image/png
+
+Uri: https://jaredproject.com/assets/images/users/defaultuser0.png
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\images\users\defaultuser0.png
+Content Type: image/png
+
+Uri: https://jaredproject.com/assets/js/apexcharts.js
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\js\apexcharts.js
+Content Type: application/javascript
+
+Uri: https://jaredproject.com/assets/js/charts.js
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\js\charts.js
+Content Type: application/javascript
+
+Uri: https://jaredproject.com/assets/js/circle-progress.min.js
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\js\circle-progress.min.js
+Content Type: application/javascript
+
+Uri: https://jaredproject.com/assets/js/custom.js
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\js\custom.js
+Content Type: application/javascript
+
+Uri: https://jaredproject.com/assets/js/index1.js
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\js\index1.js
+Content Type: application/javascript
+
+Uri: https://jaredproject.com/assets/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://jaredproject.com/assets/js/jquery.sparkline.min.js
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\js\jquery.sparkline.min.js
+Content Type: application/javascript
+
+Uri: https://jaredproject.com/assets/js/sticky.js
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\js\sticky.js
+Content Type: application/javascript
+
+Uri: https://jaredproject.com/assets/js/themeColors.js
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\js\themeColors.js
+Content Type: application/javascript
+
+Uri: https://jaredproject.com/assets/plugins/apexchart/irregular-data-series.js
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\plugins\apexchart\irregular-data-series.js
+Content Type: application/javascript
+
+Uri: https://jaredproject.com/assets/plugins/bootstrap/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\plugins\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://jaredproject.com/assets/plugins/bootstrap/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\plugins\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://jaredproject.com/assets/plugins/bootstrap/js/popper.min.js
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\plugins\bootstrap\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://jaredproject.com/assets/plugins/chart/Chart.bundle.js
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\plugins\chart\Chart.bundle.js
+Content Type: application/javascript
+
+Uri: https://jaredproject.com/assets/plugins/chart/rounded-barchart.js
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\plugins\chart\rounded-barchart.js
+Content Type: application/javascript
+
+Uri: https://jaredproject.com/assets/plugins/chart/utils.js
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\plugins\chart\utils.js
+Content Type: application/javascript
+
+Uri: https://jaredproject.com/assets/plugins/charts-c3/c3-chart.js
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\plugins\charts-c3\c3-chart.js
+Content Type: application/javascript
+
+Uri: https://jaredproject.com/assets/plugins/charts-c3/d3.v5.min.js
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\plugins\charts-c3\d3.v5.min.js
+Content Type: application/javascript
+
+Uri: https://jaredproject.com/assets/plugins/datatable/dataTables.responsive.min.js
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\plugins\datatable\dataTables.responsive.min.js
+Content Type: application/javascript
+
+Uri: https://jaredproject.com/assets/plugins/datatable/js/dataTables.bootstrap5.js
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\plugins\datatable\js\dataTables.bootstrap5.js
+Content Type: application/javascript
+
+Uri: https://jaredproject.com/assets/plugins/datatable/js/jquery.dataTables.min.js
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\plugins\datatable\js\jquery.dataTables.min.js
+Content Type: application/javascript
+
+Uri: https://jaredproject.com/assets/plugins/flot/chart.flot.sampledata.js
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\plugins\flot\chart.flot.sampledata.js
+Content Type: application/javascript
+
+Uri: https://jaredproject.com/assets/plugins/flot/dashboard.sampledata.js
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\plugins\flot\dashboard.sampledata.js
+Content Type: application/javascript
+
+Uri: https://jaredproject.com/assets/plugins/flot/jquery.flot.fillbetween.js
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\plugins\flot\jquery.flot.fillbetween.js
+Content Type: application/javascript
+
+Uri: https://jaredproject.com/assets/plugins/flot/jquery.flot.js
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\plugins\flot\jquery.flot.js
+Content Type: application/javascript
+
+Uri: https://jaredproject.com/assets/plugins/jvectormap/jquery-jvectormap-2.0.2.min.js
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\plugins\jvectormap\jquery-jvectormap-2.0.2.min.js
+Content Type: application/javascript
+
+Uri: https://jaredproject.com/assets/plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\plugins\jvectormap\jquery-jvectormap-world-mill-en.js
+Content Type: application/javascript
+
+Uri: https://jaredproject.com/assets/plugins/p-scroll/perfect-scrollbar.js
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\plugins\p-scroll\perfect-scrollbar.js
+Content Type: application/javascript
+
+Uri: https://jaredproject.com/assets/plugins/p-scroll/pscroll-1.js
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\plugins\p-scroll\pscroll-1.js
+Content Type: application/javascript
+
+Uri: https://jaredproject.com/assets/plugins/p-scroll/pscroll.js
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\plugins\p-scroll\pscroll.js
+Content Type: application/javascript
+
+Uri: https://jaredproject.com/assets/plugins/peitychart/jquery.peity.min.js
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\plugins\peitychart\jquery.peity.min.js
+Content Type: application/javascript
+
+Uri: https://jaredproject.com/assets/plugins/select2/select2.full.min.js
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\plugins\select2\select2.full.min.js
+Content Type: application/javascript
+
+Uri: https://jaredproject.com/assets/plugins/sidebar/sidebar.js
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\plugins\sidebar\sidebar.js
+Content Type: application/javascript
+
+Uri: https://jaredproject.com/assets/plugins/sidemenu/sidemenu.js
+File Name: C:\Downloaded Web Sites\jaredproject.com\assets\plugins\sidemenu\sidemenu.js
+Content Type: application/javascript
+
+Uri: https://jaredproject.com/giris
+File Name: C:\Downloaded Web Sites\jaredproject.com\giris.html
+Content Type: text/html
+
